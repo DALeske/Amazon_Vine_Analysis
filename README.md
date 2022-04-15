@@ -14,7 +14,7 @@ The purpose of deliverable 1 was to access the web data provided by Amazon revie
 ### Figure 3: Review Table
 ![Figure 3](/Resources/ReviewIDTable.png)
 
-### Figure 4: 
+### Figure 4: Resources Table
 ![ Figure 4](/Resources/VineTable.png)
 
 
@@ -27,10 +27,10 @@ The purpose of deliverable 2 was to access customer reviews posted to Amazon for
 
 Figures 5 and 6 report the results of the paid reviews and unpaid reviews respectively.
 
-### Figure 5
+### Figure 5: Paid Vine Reviewers
 ![Figure 5 - Paid](/Resources/D2%20Paid.png)
 
-### Figure 6
+### Figure 6: Un-paid Non-Vine Reviewers
 ![Figure 6 - unpaid](/Resources/D2%20Unpaid.png)
 
 For paid Vine reviews, 55 (53.4%) of 103 total reviews were 5-star reviews. For unpaid non-Vine reviews, 19723 (52.8%) of 37372 total reviews were 5-star reviews. Percentage of reviews between groups were not statistically different from one another (53.4% vs 52.8%, P=0.90)
@@ -42,5 +42,5 @@ For paid Vine reviews, 55 (53.4%) of 103 total reviews were 5-star reviews. For 
 ### Conclusion
 Based on the statistical comparison of paid vs unpaid reviews of outdoor equipment, there does not appear to be a meaningful bias in the number of 5-star reviews.
 
-### Additional analyses
+### Additional Analyses
 In addition to the proportion of 5-star reviews, and additional analysis to compare the full distribution of ratings between the two groups using a Wilcoxon rank sum test would provide further information on whether a positivity bias exists or not. 
